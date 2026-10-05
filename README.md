@@ -29,7 +29,7 @@ This project asks: **why do cancer mutations cluster where they do, and how does
 ## Repository structure
 
 ```
-kras-evolution-structure-resistance/
+./
 ├── data/                          # Raw and processed data files
 │   ├── kras_blast_swissprot.xml       # Raw BLAST XML output
 │   ├── kras_blast_hits.csv            # Parsed BLAST hit table
